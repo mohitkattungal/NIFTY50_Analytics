@@ -50,7 +50,8 @@ The analysis showed that some stocks delivered stronger risk-adjusted returns th
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](screenshots/dashboard.png)
+
 ## Author
 
 Mohit Kattungal
