@@ -31,7 +31,7 @@ The dashboard focuses on identifying top-performing stocks, comparing volatility
 
 ## Dashboard Features
 
-* KPI cards for quick insights
+* Cards for quick insights
 * Sharpe Ratio ranking chart
 * Risk vs Return scatter chart
 * Top performing stocks chart
