@@ -50,7 +50,7 @@ The analysis showed that some stocks delivered stronger risk-adjusted returns th
 
 ## Dashboard Preview
 
-![Dashboard Preview]([dashboard.png](https://github.com/mohitkattungal/NIFTY50_Analytics/blob/main/screenshots/dashboard.png))
+![Dashboard Preview](dashboard.png)
 ## Author
 
 Mohit Kattungal
